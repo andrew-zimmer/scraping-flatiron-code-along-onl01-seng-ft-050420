@@ -30,7 +30,9 @@ class Scraper
     # end 
   end 
   
-
+  def get_courses 
+    get_page.css
+  end 
   
 end
 
